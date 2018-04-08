@@ -1,8 +1,6 @@
 #!/bin/bash -xve
 
-#required packages
-apt-get install python-pip
-pip install --upgrade pip
+#required package
 pip install catkin_pkg
 pip install empy
 pip install pyyaml
