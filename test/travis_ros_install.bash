@@ -1,6 +1,6 @@
 #!/bin/bash -xve
 
-#required package
+#required packages
 pip install catkin_pkg
 pip install empy
 pip install pyyaml
